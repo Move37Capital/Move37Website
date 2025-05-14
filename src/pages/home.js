@@ -3,7 +3,7 @@ import React from 'react'
 import Team from '../components/Team';
 import Footer from '../components/Footer';
 import Hero from '../components/Hero';
-import Stats from '../components/Stats';
+
 import Navbar from '../components/Navbar';
 import WhatWeDo from '../components/WhatWeDo';
 

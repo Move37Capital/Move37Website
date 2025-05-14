@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { BrowserRouter, Routes, Route, useLocation } from "react-router-dom";
 import Home from "./pages/home";
-import AboutPage from "./pages/AboutPage";
+
 import ContactPage from "./pages/ContactPage";
 import DisclaimerPopup from "./components/DisclaimerPopup";
 import ScrollToTop from "./components/ScrollToTop";
