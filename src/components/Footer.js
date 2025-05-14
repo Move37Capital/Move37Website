@@ -10,6 +10,9 @@ const Footer = () => {
         {/* Company Info */}
         <div>
           <h3 className="text-xl font-semibold mb-4">Move37 Capital</h3>
+          <p className="text-xs text-gray-300 mb-4">
+            Move37 Capital is a trading name of Laven Advisors LLP which is authorised by the Financial Conduct Authority.
+          </p>
           <div className="mt-4 flex items-center space-x-4">
             <a
               href="https://www.linkedin.com/company/move37capital"
@@ -41,7 +44,6 @@ const Footer = () => {
             <li><Link to="/privacy" className="hover:text-yellow-300 transition">Privacy Policy</Link></li>
             <li><Link to="/disclaimer" className="hover:text-yellow-300 transition">Terms of Use</Link></li>
             <li><Link to="/cookies" className="hover:text-yellow-300 transition">Cookies Policy</Link></li>
-            
           </ul>
         </div>
 

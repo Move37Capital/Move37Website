@@ -70,6 +70,11 @@ const DisclaimerPopup = ({ onAgree }) => {
               currently using.
             </li>
           </ol>
+
+          {/* ✅ Add the legal statement at the bottom */}
+          <div className="text-sm text-yellow-200 border-t border-yellow-600 pt-4 mt-6">
+            Move37 Capital is a trading name of Laven Advisors LLP which is authorised by the Financial Conduct Authority.
+          </div>
         </section>
 
         {/* Footer */}
