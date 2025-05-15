@@ -4,14 +4,14 @@ const teamMembers = [
   {
     name: 'Kunal Gautam',
     role: 'Partner',
-    image: '/images/kunal.jpg',
+    image: '/images/kunal.webp',
     bio: `Kunal Gautam brings over 15 years of experience in trading and portfolio management. He has served as a Portfolio Manager at Millennium Management and was previously a Partner at Quantmetrics Capital Management. Earlier in his career, he held roles as a Quantitative Trader at Futex and a Proprietary Trader at G.H. Financials. Kunal holds an MBA in Finance from XLRI Jamshedpur (India) and a B.Tech in Information Technology from the Indian Institute of Information Technology (IIIT), Allahabad (India).`,
     linkedIn: 'https://www.linkedin.com/in/kungautam/',
   },
   {
     name: 'Dr. Mushtaq Shah',
     role: 'Partner',
-    image: '/images/mush.jpg',
+    image: '/images/mush.webp',
     bio: `Dr. Mushtaq Shah is a seasoned investor and economist with over three decades of experience in financial markets and quantitative research. He was the Co-Founder and CIO of Quantmetrics Capital Management from 2003 to 2019. Prior to that, he served as Head of Research at Equinox Capital Management, where he led a multi-strategy equity arbitrage hedge fund (Eclipse1). His earlier roles include senior positions at Credit Suisse First Boston, NationsBank Europe (Bank of America), and Goldman Sachs, where he held leadership roles in proprietary trading and quantitative analysis.\n\nDr. Shah began his career as a European Economic Analyst at UBS Securities. He holds a PhD in Financial Econometrics from the London School of Economics and an MPhil in Economics from the University of Cambridge.`,
     linkedIn: 'https://www.linkedin.com/in/mushtaq-shah-9103a124/',
   },
