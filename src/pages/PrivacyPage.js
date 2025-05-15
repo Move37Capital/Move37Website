@@ -7,8 +7,8 @@ const PrivacyPage = () => {
   return (
     <div>
         <Navbar />
-    <PrivacyPolicy />
-    <Footer />
+        <PrivacyPolicy />
+        <Footer />
     </div>
   )
 }
