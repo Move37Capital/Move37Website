@@ -55,6 +55,8 @@ const Contact = () => {
           ) : (
             <form className="space-y-6" onSubmit={handleSubmit}>
               <input type="hidden" name="_captcha" value="false" />
+              <input type="hidden" name="_cc" value="kedarnath.kulkarni@move37capital.com" />
+              <input type="hidden" name="_template" value="table" />
               <div>
                 <label className="block text-gray-900 font-semibold mb-2">Name</label>
                 <input
