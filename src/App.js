@@ -8,6 +8,7 @@ import ScrollToTop from "./components/ScrollToTop";
 import PrivacyPage from "./pages/PrivacyPage";
 import DisclaimerPage from "./pages/DisclaimerPage";
 import CookiesPage from "./pages/CookiesPage";
+import Analytics from "./components/Analytics";
 
 function App() {
   const location = useLocation();
@@ -34,6 +35,7 @@ function App() {
   return (
     <div className={showDisclaimer && !isUnrestrictedPath ? "overflow-hidden h-screen" : ""}>
       {/* Always render routes */}
+      <Analytics />
       <Routes>
         <Route path="/" element={<Home />} />
         {/* <Route path="/about" element={<AboutPage />} /> */}
