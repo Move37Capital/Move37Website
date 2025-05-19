@@ -6,7 +6,7 @@ const Navbar = () => {
     <div>
 
       <nav className="fixed top-0 w-full z-50 bg-[#1b4460] py-4 shadow-md font-sans">
-        <div className="container mx-auto flex items-center justify-between px-6 sm:px-0">
+        <div className="w-full flex items-center justify-between px-6 md:px-4 sm:px-0">
 
           {/* Logo with Link to Home */}
           <Link to="/" className="flex items-center space-x-4">
