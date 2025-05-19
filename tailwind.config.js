@@ -19,6 +19,11 @@ module.exports = {
         fadeInLeft: 'fadeInLeft 1s ease-out forwards',
         fadeInRight: 'fadeInRight 1s ease-out forwards',
       },
+      screens: {
+        'landscapes': {
+            'raw': `only screen and (max-height: 600px) and (orientation: landscape)`
+        }
+      },
     },
   },
   plugins: [],
