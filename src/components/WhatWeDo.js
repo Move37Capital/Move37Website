@@ -14,7 +14,7 @@ const WhatWeDo = () => {
 
 
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-blue-900 mb-6 tracking-wide text-center">
-            What We Do
+            Who We Are
           </h2>
           <p className="text-base sm:text-lg md:text-xl text-gray-700 mt-6 leading-relaxed tracking-wide text-center">
             <strong className="text-blue-500 font-medium">Move37 Capital</strong> is an
