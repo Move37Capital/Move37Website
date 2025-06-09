@@ -57,6 +57,7 @@ const Contact = () => {
               <input type="hidden" name="_captcha" value="false" />
               <input type="hidden" name="_cc" value="kedarnath.kulkarni@move37capital.com" />
               <input type="hidden" name="_template" value="table" />
+              <input type="hidden" name="_replyto" value="" id="replyToField" />
               <div>
                 <label className="block text-gray-900 font-semibold mb-2">Name</label>
                 <input
