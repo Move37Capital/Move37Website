@@ -32,7 +32,7 @@ const Footer = () => {
           <p className="mt-2">
             Move37 Capital,<br />
             Spaces, The Charter Building,<br />
-            Uxbridge&nbsp;UB8&nbsp;1JG
+            Uxbridge, London&nbsp;UB8&nbsp;1JG
           </p>
         </div>
 

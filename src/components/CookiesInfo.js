@@ -64,7 +64,7 @@ const CookiesInfo = () => {
           <p className="mt-2">
             <strong>Move37 Capital</strong><br />
             Spaces, The Charter Building,<br />
-            Uxbridge UB8 1JG, United Kingdom<br />
+            Uxbridge, London UB8 1JG<br />
             Email: <a href="mailto:contact-us@move37capital.com" className="text-blue-600 underline">contact-us@move37capital.com</a>
           </p>
         </div>

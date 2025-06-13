@@ -94,7 +94,7 @@ const PrivacyPolicy = () => {
           Address:<br />
           Move37 Capital,<br />
           Spaces, The Charter Building,<br />
-          Uxbridge UB8 1JG
+          Uxbridge, London UB8 1JG
         </p>
       </div>
     </div>
